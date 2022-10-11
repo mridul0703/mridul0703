@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mridul0703
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mridul M Kumar.
+- 📖 Currently Pursuing B.Tech from Indian Institute Of Information Technology, Bhopal
+- 🌱 I’m currently learning WEB-DEVLOPMENT
+
+- 📫 Lets Keep In Touch 
+    - LinkedIn - www.linkedin.com/in/mridul-m-kumar-9984a6205
 
 <!---
 mridul0703/mridul0703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
