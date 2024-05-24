@@ -1,1 +1,1 @@
-Organization Namne - "Cara"
+Organization Name - "Cara"
