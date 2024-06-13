@@ -17,6 +17,11 @@
   <br>
 </div>
 
+# 🔝 Top Contributed Repo
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=mridul0703&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repo">
+  <br>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mridul0703&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -30,5 +35,4 @@
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mridul0703) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
