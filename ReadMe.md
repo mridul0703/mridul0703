@@ -1,7 +1,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=mridul0703&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
----
-
 # 💫 About Me:
 『🧑‍💻』 Currently, I'm immersed in Web Development.<br>『💬』 I'm eager to collaborate on Open Source Contributions.<br>『🤝』 Seeking assistance with creating projects based on real-life implementations.<br>『📝』 Currently delving into Machine Learning.<br>『💬』 Feel free to ask me about Web Development.<br>『🥂』 Fun fact: Keeping things simple is my mantra.<br>
 
