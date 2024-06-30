@@ -19,11 +19,20 @@
   <br>
 </div>
 
+## 📊 LeetCode Stats:
+<div align="center">
+    <img src="https://leetcode-stats.vercel.app/api?username=alpha0711&theme=Dark" alt="Top Languages">
+</div>
+
+<!--
 # 🔝 Top Contributed Repo
 <div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=mridul0703&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repo">
   <br>
 </div>
+
+
+-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mridul0703&theme=radical&no-frame=false&no-bg=true&margin-w=4)
