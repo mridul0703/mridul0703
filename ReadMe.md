@@ -21,7 +21,7 @@
 
 ## 📊 LeetCode Stats:
 <div align="center">
-    <img src="https://leetcode-stats.vercel.app/api?username=alpha0711&theme=Dark" alt="Top Languages">
+    <img src="https://leetcode-stats.vercel.app/api?username=mridul0703&theme=Dark" alt="Top Languages">
 </div>
 
 <!--
