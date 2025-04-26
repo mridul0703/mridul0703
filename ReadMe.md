@@ -4,6 +4,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mridul</h1>
+<h3 align="center">Web Developer | ML Enthusiast | Open Source Contributor</h3>
+
 <div align="center">
   <a href="https://linkedin.com/in/mridul-m-kumar-a7aa122a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,7 +17,6 @@
     <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
   </a>
 </div>
-<h3 align="center">Web Developer | ML Enthusiast | Open Source Contributor</h3>
 
 ---
 
@@ -58,16 +59,16 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 LeetCode Stats
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mridul0703&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
+  <img src="https://leetcode-stats.vercel.app/api?username=mridul0703&theme=Dark" alt="LeetCode Stats"/>
 </div>
 
 ---
 
-### 📈 LeetCode Stats
+### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=mridul0703&theme=Dark" alt="LeetCode Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mridul0703&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
