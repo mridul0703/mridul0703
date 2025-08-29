@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=mridul0703&label=Views&color=0e75b6&style=for-the-badge" />
 <p align="right">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGDnyN83IGSVA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715247342576?e=1756339200&v=beta&t=7WLtqikB3LXGEodnIUovnUCOi4o7Y2PDwdHqXmnEuE0" width="auto" alt="developer gif" />
+  <img src="/profile.jpg" width="auto" alt="developer gif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mridul</h1>
