@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=mridul0703&label=Views&color=0e75b6&style=for-the-badge" />
-
 <h1 align="center">Hi 👋, I'm Mridul</h1>
 <h3 align="center">Web Developer | ML Enthusiast | Open Source Contributor</h3>
 
